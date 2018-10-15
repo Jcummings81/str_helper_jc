@@ -1,4 +1,5 @@
 require "str_helper_jc/version"
+require "str_helper_jc/greeting"
 
 module StrHelperJc
 
